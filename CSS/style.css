@@ -150,6 +150,9 @@ body {
         grid-template-columns: repeat(2, 1fr);
     }
 
+    .banner-right img {
+        width: 100%;
+    }
     .product img{
         width: 100%;
     }
